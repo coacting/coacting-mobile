@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902089300624",
+    "firebase_url": "https://nexushub-coacting-mobile.firebaseio.com",
+    "project_id": "nexushub-coacting-mobile",
+    "storage_bucket": "nexushub-coacting-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902089300624:android:cc70bda83e06217c32d615",
+        "android_client_info": {
+          "package_name": "com.nexushub.coacting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902089300624-sbp3t3iq1qiaahaauesqu4au7ajgp6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKuvIcTHutPY_BjSHJXCcq5zWutkaBWws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902089300624-sbp3t3iq1qiaahaauesqu4au7ajgp6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
